@@ -1,0 +1,47 @@
+body{
+	background-color: #062d6b;
+	color: white;
+	}
+	h1.first{
+	width: 100%;
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 40px;
+	text-align: center;
+	}
+	p.first{
+	width: 100%;
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 30px;
+	text-align: center;
+	}
+	h2.second{ 
+	width: 100%;
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 40px;
+	text-align: left; 
+	}
+	h2.third {
+	width: 100%;
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 40px;
+	text-align: left; 
+	}
+	img{ 
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	img.first{
+	display:block;
+	margin-left: 1%;
+	margin-right: auto;
+	}
+	img.second{
+	display:block;
+	margin-left: 1%;
+	margin-right: auto;
+	}
